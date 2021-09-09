@@ -83,8 +83,6 @@ buttons = [
 InlineKeyboardButton(
             text="[ CHECK MY FRIEND ]", url="http://t.me/VALTAOITHEBOT"
         ),
-
-    ],
     [
         InlineKeyboardButton(
                     text="[ ✘BOT Cʀᴇᴀᴛᴇʀ✘ ]", url="https://t.me/TharunK5614L"
