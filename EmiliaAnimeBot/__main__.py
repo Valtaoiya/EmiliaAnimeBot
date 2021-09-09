@@ -85,7 +85,7 @@ InlineKeyboardButton(
     ],
     [
         InlineKeyboardButton(
-                    text="[ ✘BOT Cʀᴇᴀᴛᴇʀ✘ ]", url="http://t.me/TharunK5614"
+                    text="[ ✘BOT Cʀᴇᴀᴛᴇʀ✘ ]", url="http://t.me/TharunK5614L"
         ),
     ],
 ]
@@ -96,7 +96,7 @@ HELP_STRINGS = """
 I'm a Half Elf and help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paytm](#) or by contacting @\
+ You can support the project via [Paytm](#) or by contacting @TharunK5614L\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                   InlineKeyboardButton(text="[ ✘Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ✘ ]", url="https://t.me/freelogogiveaway")
                   ],
                   [
-                  InlineKeyboardButton(text="[ ✘Cʀᴇᴀᴛᴇʀ✘ ]", url="http://t.me/TharunK5614")
+                  InlineKeyboardButton(text="[ ✘Cʀᴇᴀᴛᴇʀ✘ ]", url="http://t.me/TharunK5614L")
                   ]
                 ]
             ),
